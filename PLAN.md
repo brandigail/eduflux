@@ -1,6 +1,6 @@
 # EduFlux: Build Plan
 
-- [ ] 1. Scaffold the project (stack in `CLAUDE.md`), strict `tsconfig`, lint, `netlify.toml`, `.env.example`; first working commit
+- [x] 1. Scaffold the project (stack in `CLAUDE.md`), strict `tsconfig`, lint, `netlify.toml`, `.env.example`; first working commit
 - [ ] 2. Neon schema (users, courses, lessons, quizzes, progress, certificates) and migration
 - [ ] 3. `types/` interfaces and zod schemas
 - [ ] 4. Auth.js credentials login and roles
