@@ -2,7 +2,7 @@
 
 A small learning platform. Students watch video lessons with chapters and progress tracking, take quizzes that are graded on the server, and download a PDF certificate when they finish. Instructors see completion across their courses.
 
-**Live demo:** TBD (built and tested locally, not yet deployed)
+**Live demo:** https://eduflux-337.netlify.app
 
 ![Lesson player with chapters and bookmarks](docs/screenshots/lesson-desktop.png)
 
